@@ -1,3 +1,3 @@
-This is simple Web Application without any sophisticated graphic represantional. 
-The task was to create an MVC model application which communicate with database server (Tomcat).
+This is simple Web Application in Maven without any sophisticated graphic represantional. 
+The task was to create an MVC model application which communicate with database server (Tomcat) by Servlets.
 Tomcat sends SQL queries to the database which is a simple Library project in MySQL.
